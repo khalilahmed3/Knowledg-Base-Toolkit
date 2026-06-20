@@ -46,7 +46,7 @@ const toolkitApps = [
     "credentials": "Utenza SV (Ciao)",
     "owner": "Team US",
     "description": "In Order Tracker è possibile monitorare lo stato di avanzamento di un ordine trasmesso al Laboratorio",
-    "management": "pos traiage",
+    "management": "LUX_CIAO_HD2",
     "sheet": "Elenco Link Toolkit Pagina 1"
   },
   {
@@ -56,7 +56,7 @@ const toolkitApps = [
     "credentials": "Utenza SV (Ciao)",
     "owner": "BTO\nTeam US",
     "description": "LPA è  l'applicativo che permette di modificare, aggiungere tracciature e trasmettere tutti gli ordini che devono essere ordinati dal Laboratorio di SEDICO, nonchè effettuare il controllo una volta ricevuto l'ordine",
-    "management": "HDA -> LUX_CIAO_HD2",
+    "management": "LUX_CIAO_HD2",
     "sheet": "Elenco Link Toolkit Pagina 1"
   },
   {
