@@ -46,7 +46,7 @@ const toolkitApps = [
     "credentials": "Utenza SV (Ciao)",
     "owner": "Team US",
     "description": "In Order Tracker è possibile monitorare lo stato di avanzamento di un ordine trasmesso al Laboratorio",
-    "management": "LUX_CIAO_HD2",
+    "management": "POS TRIAGE",
     "sheet": "Elenco Link Toolkit Pagina 1"
   },
   {
